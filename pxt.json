@@ -10,6 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md"
+	"_locales/zh-CN/brainco-jsdoc-strings.json"
+	"_locales/zh-CN/brainco-strings.json"
     ],
     "testFiles": [
         "test.ts"
